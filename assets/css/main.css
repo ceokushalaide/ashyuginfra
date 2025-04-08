@@ -783,7 +783,7 @@ section,
 .section-title p {
   margin-bottom: 0;
   font-family: var(--heading-font);
-  font-size: 32px;
+  font-size: 29px;
 }
 
 /*--------------------------------------------------------------
@@ -1288,7 +1288,7 @@ section,
 }
 
 .recent-posts .post-item .meta span {
-  font-size: 15px;
+  font-size: 12px;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
 }
 
